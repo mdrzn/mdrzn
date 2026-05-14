@@ -1,32 +1,98 @@
-# Hey, I'm Federico
+<!-- Banner -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=mdrzn&fontSize=70&fontColor=ffffff&animat
+  ion=fadeIn&fontAlignY=38" />
+  </p>
 
-  Solo developer from Italy. I build small web tools and AI-powered
-  SaaS — mostly for the Italian market, sometimes for myself.
+  <!-- Typing tagline -->
+  <p align="center">
+    <a href="https://github.com/mdrzn">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Solo+developer+f
+  rom+Italy;Building+AI-powered+web+tools+%26+SaaS;Shipping+small+things%2C+often;Trading+as+Full+Marketing+Power" alt="Typing SVG" />
+    </a>
+  </p>
 
-  CEO of **Full Marketing Power** — the no-agency alternative
-  for small businesses that need a site, a dashboard, or an AI
-  integration without the agency price tag.
+  <!-- Social / quick links -->
+  <p align="center">
+    <a href="https://fullmarketingpower.com"><img src="https://img.shields.io/badge/Full_Marketing_Power-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://blog.mdrzn.it"><img src="https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/mdrzn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://news.ycombinator.com/user?id=mdrzn"><img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=mdrzn&style=for-the-badge&color=58A6FF&label=Visitors" />
+  </p>
 
-  ## What I'm shipping
+  ---
 
-  | Project | What it is |
-  |---|---|
-  | [FixGDPR](https://fixgdpr.com) | AI-native GDPR compliance scanner + WordPress consent banner |
-  | [BuongiornoAI](https://buongiornoai.it) | Italian 3x/week AI newsletter |
-  | [claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader) | Drag-and-drop screenshots straight into Claude Code (macOS) |
-  | [windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader) | Same idea, Windows port 
-  
+  ### 👋 Hey, I'm Federico
 
-  ## Live
+  Italian solo dev. I ship small AI-powered web tools and SaaS — sometimes for clients, mostly for myself.
 
-  - **fullmarketingpower.com** — solo-dev services
-  - **fixgdpr.com** — current focus
-  - **buongiornoai.it** — daily-ish AI newsletter (IT)
+  CEO of **[Full Marketing Power](https://fullmarketingpower.com)** — the no-agency alternative for small businesses that need a site, a dashboard, or an AI integration without
+   the agency price tag.
 
-  ## Stack
+  ---
 
-  `TypeScript` · `Next.js` · `PHP` · `Python` · `Playwright` · `Claude` · `Postgres` · `SQLite`
+  ### 🚀 What I'm shipping
 
-  ## Elsewhere
+  <table>
+    <tr>
+      <td width="50%" valign="top">
 
-  [LinkedIn](https://linkedin.com/in/mdrzn) · [HN](https://news.ycombinator.com/user?id=mdrzn)
+  **[FixGDPR](https://fixgdpr.com)** 🔒
+  AI-native GDPR scanner + WordPress consent banner. Current focus.
+
+  **[BuongiornoAI](https://buongiornoai.it)** ☕
+  Italian AI newsletter, 3x/week.
+
+      </td>
+      <td width="50%" valign="top">
+
+  **[claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)** 📸
+  Drag-and-drop screenshots into Claude Code (macOS). ⭐ 22
+
+  **[windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)** 🪟
+  Same idea, Windows port.
+
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ### 🛠 Stack
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,php,postgres,sqlite,docker,tailwind,vercel,linux" />
+  </p>
+
+  ---
+
+  ### 📊 GitHub, in numbers
+
+  <p align="center">
+    <img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=mdrzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=mdrzn&theme=tokyonight&hide_border=true" />
+  </p>
+
+  <p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrzn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrzn&theme=tokyo-night&hide_border=true&area=true" />
+  </p>
+
+  ---
+
+  ### 🐍 Watch the snake eat my contributions
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/mdrzn/mdrzn/output/github-contribution-grid-snake-dark.svg" />
+  </p>
+
+  ---
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+  </p>
