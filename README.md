@@ -13,7 +13,6 @@
   <!-- Social / quick links -->
   <p align="center">
     <a href="https://fullmarketingpower.com"><img src="https://img.shields.io/badge/Full_Marketing_Power-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://blog.mdrzn.it"><img src="https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
     <a href="https://linkedin.com/in/mdrzn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://news.ycombinator.com/user?id=mdrzn"><img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=mdrzn&style=for-the-badge&color=58A6FF&label=Visitors" />
