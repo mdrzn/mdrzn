@@ -1,13 +1,13 @@
 <!-- Banner -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=mdrzn&fontSize=70&fontColor=ffffff&animat
-  ion=fadeIn&fontAlignY=38" />
+  ion=fadeIn&fontAlignY=38&v=2" />
   </p>
 
   <!-- Typing tagline -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Solo+developer+fro
-  m+Italy;Building+AI-powered+web+tools+and+SaaS;Shipping+small+things%2C+often;Trading+as+Full+Marketing+Power" alt="Typing SVG" />
+  m+Italy;Building+AI-powered+web+tools+and+SaaS;Shipping+small+things%2C+often;Trading+as+Full+Marketing+Power&v=2" alt="Typing SVG" />
   </p>
 
   <!-- Social / quick links -->
@@ -50,13 +50,7 @@
   ### 📊 GitHub, in numbers
 
   <p align="center">
-    <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=mdrzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
     <img height="170" src="https://streak-stats.demolab.com?user=mdrzn&theme=tokyonight&hide_border=true" />
-  </p>
-
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrzn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </p>
 
   <p align="center">
@@ -66,5 +60,5 @@
   ---
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&v=2" />
   </p>
