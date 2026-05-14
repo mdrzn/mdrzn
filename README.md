@@ -6,10 +6,8 @@
 
   <!-- Typing tagline -->
   <p align="center">
-    <a href="https://github.com/mdrzn">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Solo+developer+f
-  rom+Italy;Building+AI-powered+web+tools+%26+SaaS;Shipping+small+things%2C+often;Trading+as+Full+Marketing+Power" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Solo+developer+fro
+  m+Italy;Building+AI-powered+web+tools+and+SaaS;Shipping+small+things%2C+often;Trading+as+Full+Marketing+Power" alt="Typing SVG" />
   </p>
 
   <!-- Social / quick links -->
@@ -34,28 +32,10 @@
 
   ### 🚀 What I'm shipping
 
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-
-  **[FixGDPR](https://fixgdpr.com)** 🔒
-  AI-native GDPR scanner + WordPress consent banner. Current focus.
-
-  **[BuongiornoAI](https://buongiornoai.it)** ☕
-  Italian AI newsletter, 3x/week.
-
-      </td>
-      <td width="50%" valign="top">
-
-  **[claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)** 📸
-  Drag-and-drop screenshots into Claude Code (macOS). ⭐ 22
-
-  **[windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)** 🪟
-  Same idea, Windows port.
-
-      </td>
-    </tr>
-  </table>
+  - 🔒 **[FixGDPR](https://fixgdpr.com)** — AI-native GDPR scanner + WordPress consent banner. *Current focus.*
+  - ☕ **[BuongiornoAI](https://buongiornoai.it)** — Italian AI newsletter, 3x/week.
+  - 📸 **[claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)** — Drag-and-drop screenshots into Claude Code (macOS). ⭐ 22
+  - 🪟 **[windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)** — Same idea, Windows port.
 
   ---
 
@@ -81,14 +61,6 @@
 
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrzn&theme=tokyo-night&hide_border=true&area=true" />
-  </p>
-
-  ---
-
-  ### 🐍 Watch the snake eat my contributions
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/mdrzn/mdrzn/output/github-contribution-grid-snake-dark.svg" />
   </p>
 
   ---
