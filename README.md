@@ -1,63 +1,40 @@
-<!-- Banner -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=mdrzn&fontSize=70&fontColor=ffffff&animat
-  ion=fadeIn&fontAlignY=38&v=2" />
-  </p>
+<div align="center">
 
-  <!-- Typing tagline -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Solo+developer+fro
-  m+Italy;Building+AI-powered+web+tools+and+SaaS;Shipping+small+things%2C+often;Trading+as+Full+Marketing+Power&v=2" alt="Typing SVG" />
-  </p>
+# Hey, I'm Federico 👋
 
-  <!-- Social / quick links -->
-  <p align="center">
-    <a href="https://fullmarketingpower.com"><img src="https://img.shields.io/badge/Full_Marketing_Power-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/mdrzn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://news.ycombinator.com/user?id=mdrzn"><img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=mdrzn&style=for-the-badge&color=58A6FF&label=Visitors" />
-  </p>
+### Solo developer from Italy building practical AI products and web tools.
 
-  ---
+I turn small, annoying problems into focused software — usually with AI somewhere in the loop.
 
-  ### 👋 Hey, I'm Federico
+[![Full Marketing Power](https://img.shields.io/badge/Full_Marketing_Power-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://fullmarketingpower.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrzn)
+[![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=mdrzn)
 
-  Italian solo dev. I ship small AI-powered web tools and SaaS — sometimes for clients, mostly for myself.
+</div>
 
-  CEO of **[Full Marketing Power](https://fullmarketingpower.com)** — the no-agency alternative for small businesses that need a site, a dashboard, or an AI integration without
-   the agency price tag.
+---
 
-  ---
+## What I'm building
 
-  ### 🚀 What I'm shipping
+| Project | What it does |
+| --- | --- |
+| **[FixGDPR](https://fixgdpr.com)** · current focus | AI-powered GDPR scanner and consent tools for websites and WordPress. |
+| **[BuongiornoAI](https://buongiornoai.it)** | Practical AI news and guides for an Italian audience. |
+| **[Full Marketing Power](https://fullmarketingpower.com)** | Websites, dashboards, and AI integrations for small businesses — without the traditional agency overhead. |
 
-  - 🔒 **[FixGDPR](https://fixgdpr.com)** — AI-native GDPR scanner + WordPress consent banner. *Current focus.*
-  - ☕ **[BuongiornoAI](https://buongiornoai.it)** — Italian AI newsletter, 3x/week.
-  - 📸 **[claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)** — Drag-and-drop screenshots into Claude Code (macOS). ⭐ 22
-  - 🪟 **[windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)** — Same idea, Windows port.
+## Open source
 
-  ---
+- **[claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)** — drag and drop screenshots straight into Claude Code on macOS.
+- **[windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)** — the same workflow for Windows.
 
-  ### 🛠 Stack
+## Tools I reach for
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,php,postgres,sqlite,docker,tailwind,vercel,linux" />
-  </p>
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `PHP` · `PostgreSQL` · `SQLite` · `Docker` · `Tailwind CSS` · `Vercel` · `Linux`
 
-  ---
+---
 
-  ### 📊 GitHub, in numbers
+<div align="center">
 
-  <p align="center">
-    <img height="170" src="https://streak-stats.demolab.com?user=mdrzn&theme=tokyonight&hide_border=true" />
-  </p>
+**Build small. Ship often. Keep it useful.**
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrzn&theme=tokyo-night&hide_border=true&area=true" />
-  </p>
-
-  ---
-
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&v=2" />
-  </p>
+</div>
