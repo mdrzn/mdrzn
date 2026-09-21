@@ -6,7 +6,6 @@
 
   I turn small, annoying problems into focused software — usually with AI somewhere in the loop.
 
-  [![Full Marketing Power](https://img.shields.io/badge/Full_Marketing_Power-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://fullmarketingpower.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrzn)
   [![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=mdrzn)
 
@@ -24,10 +23,8 @@
   | **[SalvaDeposito](https://salvadeposito.it)** | Photo-based PDF reports for documenting a rental before moving in. |
   | **[Prezzi alla Pompa](https://prezziallapompa.it)** | Daily fuel-price averages and trends across Italy, built on official MIMIT data. |
   | **[Cielo di Oggi](https://cielodioggi.it)** | Daily horoscopes, personalized forecasts, and natal charts in Italian, without ads. |
-  | **[DotBento](https://dotbento.app)** | A new app currently taking shape behind the scenes. |
   | **[Noccioline.Studio](https://noccioline.studio)** | Creative direction and AI video production for musicians and release campaigns. |
   | **[BuongiornoAI](https://buongiornoai.it)** | Practical AI news and guides for an Italian audience. |
-  | **[Full Marketing Power](https://fullmarketingpower.com)** | Websites, dashboards, and AI integrations for small businesses — without the traditional agency overhead. |
 
   ## Open source
 
