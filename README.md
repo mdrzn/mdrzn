@@ -1,44 +1,122 @@
 <div align="center">
 
-  # Hey, I'm Federico 👋
+# Hey, I'm Federico 👋
 
-  ### Solo developer from Italy building practical AI products and web tools.
+### Solo developer from Italy building practical AI products, web tools and small Mac apps.
 
-  I turn small, annoying problems into focused software — usually with AI somewhere in the loop.
+I turn small, annoying problems into focused software — usually with AI somewhere in the loop.
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrzn)
-  [![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=mdrzn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrzn)
+[![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=mdrzn)
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## What I'm building
+## What I'm building
 
-  | Project | What it does |
-  | --- | --- |
-  | **[Anamne](https://getanamne.com)** | Local-first, encrypted archive for AI conversations with Obsidian sync. |
-  | **[SfornaPost](https://sfornapost.it)** | AI-generated social posts and visuals for small local businesses. |
-  | **[PuntaQui](https://puntaqui.it)** | Dynamic QR codes you can update, schedule, and measure without reprinting. |
-  | **[SalvaDeposito](https://salvadeposito.it)** | Photo-based PDF reports for documenting a rental before moving in. |
-  | **[Prezzi alla Pompa](https://prezziallapompa.it)** | Daily fuel-price averages and trends across Italy, built on official MIMIT data. |
-  | **[Cielo di Oggi](https://cielodioggi.it)** | Daily horoscopes, personalized forecasts, and natal charts in Italian, without ads. |
-  | **[Noccioline.Studio](https://noccioline.studio)** | Creative direction and AI video production for musicians and release campaigns. |
-  | **[BuongiornoAI](https://buongiornoai.it)** | Practical AI news and guides for an Italian audience. |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://prezziallapompa.it"><img src="assets/prezzi-alla-pompa.webp" alt="Prezzi alla Pompa" width="100%"></a>
 
-  ## Open source
+**[⛽ Prezzi alla Pompa](https://prezziallapompa.it)**<br>
+Daily fuel-price averages and trends across Italy, built on official MIMIT data — with a map of every station and side-by-side comparisons.
+</td>
+<td width="50%" valign="top">
+<a href="https://buongiornoai.it"><img src="assets/buongiornoai.webp" alt="BuongiornoAI" width="100%"></a>
 
-  - **[claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)** — drag and drop screenshots straight into Claude Code on macOS.
-  - **[windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)** — the same workflow for Windows.
+**[☀️ BuongiornoAI](https://buongiornoai.it)**<br>
+Practical AI news and guides for an Italian audience: a free newsletter three times a week, plus short explainer videos.
+</td>
+</tr>
+</table>
 
-  ## Tools I reach for
+## Open source
 
-  `TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `PHP` · `PostgreSQL` · `SQLite` · `Docker` · `Tailwind CSS` · `Vercel` · `Linux`
+### Mac apps
 
-  ---
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/mdrzn/menustats"><img src="https://raw.githubusercontent.com/mdrzn/menustats/main/docs/tour.webp" alt="MenuStats" width="72%"></a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/mdrzn/cursor-trail"><img src="https://raw.githubusercontent.com/mdrzn/cursor-trail/main/docs/fantasmi.gif" alt="CursorTrail" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-  <div align="center">
+**[📊 MenuStats](https://github.com/mdrzn/menustats)**<br>
+A menu bar system monitor for people who build things: CPU, memory, sensors, apps, listening ports, AI agent sessions (with Claude Code token usage), per-app volume and keep-awake — in one panel, with themes and ten menu bar looks.
 
-  **Build small. Ship often. Keep it useful.**
+[![Release](https://img.shields.io/github/v/release/mdrzn/menustats?style=flat-square&color=4FD1A5&label=release)](https://github.com/mdrzn/menustats/releases/latest)
+![macOS](https://img.shields.io/badge/macOS-14.2+-111?style=flat-square&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-  </div>
+</td>
+<td valign="top">
+
+**[✨ CursorTrail](https://github.com/mdrzn/cursor-trail)**<br>
+A lightweight cursor trail for macOS: a fading gradient line or ghost copies of the pointer, with every option of the Windhawk mod it's inspired by, plus an animated rainbow.
+
+[![Release](https://img.shields.io/github/v/release/mdrzn/cursor-trail?style=flat-square&color=8B00FF&label=release)](https://github.com/mdrzn/cursor-trail/releases/latest)
+![macOS](https://img.shields.io/badge/macOS-14+-111?style=flat-square&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+Both install with Homebrew:
+
+```sh
+brew tap mdrzn/tap && brew trust mdrzn/tap
+brew install --cask --no-quarantine mdrzn/tap/menustats mdrzn/tap/cursortrail
+```
+
+### Screenshots → remote Claude Code
+
+When Claude Code runs on a server over SSH, it can't see the screenshot on your desktop. These upload it for you and put the remote path on your clipboard:
+
+```
+📸 take a screenshot  →  ⬆️ upload over SSH  →  📋 /tmp/screenshots/shot.png  →  paste into Claude Code
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🍎 claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)**<br>
+macOS, from the menu bar. Multiple servers, automatic or one-click uploads, notifications, optional cleanup.
+
+[![Stars](https://img.shields.io/github/stars/mdrzn/claude-screenshot-uploader?style=flat-square&color=F5B942)](https://github.com/mdrzn/claude-screenshot-uploader/stargazers)
+[![Release](https://img.shields.io/github/v/release/mdrzn/claude-screenshot-uploader?style=flat-square&label=release)](https://github.com/mdrzn/claude-screenshot-uploader/releases/latest)
+![macOS](https://img.shields.io/badge/macOS-111?style=flat-square&logo=apple)
+
+</td>
+<td width="50%" valign="top">
+
+**[🪟 windows-screenshot-uploader](https://github.com/mdrzn/windows-screenshot-uploader)**<br>
+The same workflow on Windows: a system-tray app that picks up screenshots from the clipboard and uploads them.
+
+[![Stars](https://img.shields.io/github/stars/mdrzn/windows-screenshot-uploader?style=flat-square&color=F5B942)](https://github.com/mdrzn/windows-screenshot-uploader/stargazers)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## Tools I reach for
+
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Swift` · `PHP` · `PostgreSQL` · `SQLite` · `Docker` · `Tailwind CSS` · `Vercel` · `Linux`
+
+---
+
+<div align="center">
+
+**Build small. Ship often. Keep it useful.**
+
+</div>
