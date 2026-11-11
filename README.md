@@ -109,10 +109,6 @@ The same workflow on Windows: a system-tray app that picks up screenshots from t
 </tr>
 </table>
 
-## Tools I reach for
-
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Swift` · `PHP` · `PostgreSQL` · `SQLite` · `Docker` · `Tailwind CSS` · `Vercel` · `Linux`
-
 ---
 
 <div align="center">
