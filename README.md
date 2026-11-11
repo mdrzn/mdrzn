@@ -38,11 +38,12 @@ Practical AI news and guides for an Italian audience: a free newsletter three ti
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/mdrzn/menustats"><img src="https://raw.githubusercontent.com/mdrzn/menustats/main/docs/tour.webp" alt="MenuStats" width="72%"></a>
+<td width="47%" valign="top" align="center">
+<a href="https://github.com/mdrzn/menustats"><img src="https://raw.githubusercontent.com/mdrzn/menustats/main/docs/tour.webp" alt="MenuStats" width="100%"></a>
 </td>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/mdrzn/cursor-trail"><img src="https://raw.githubusercontent.com/mdrzn/cursor-trail/main/docs/fantasmi.gif" alt="CursorTrail" width="100%"></a>
+<td width="53%" valign="top" align="center">
+<a href="https://github.com/mdrzn/cursor-trail"><img src="https://raw.githubusercontent.com/mdrzn/cursor-trail/main/docs/fantasmi.gif" alt="CursorTrail ghost copies" width="100%"></a>
+<a href="https://github.com/mdrzn/cursor-trail"><img src="https://raw.githubusercontent.com/mdrzn/cursor-trail/main/docs/arcobaleno.gif" alt="CursorTrail rainbow line" width="100%"></a>
 </td>
 </tr>
 <tr>
