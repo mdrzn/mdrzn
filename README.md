@@ -69,11 +69,11 @@ A lightweight cursor trail for macOS: a fading gradient line or ghost copies of 
 </tr>
 </table>
 
-Both install with Homebrew:
+All three Mac apps install with Homebrew:
 
 ```sh
 brew tap mdrzn/tap && brew trust mdrzn/tap
-brew install --cask --no-quarantine mdrzn/tap/menustats mdrzn/tap/cursortrail
+brew install --cask --no-quarantine mdrzn/tap/menustats mdrzn/tap/cursortrail mdrzn/tap/screenshot-uploader
 ```
 
 ### Screenshots → remote Claude Code
@@ -89,7 +89,7 @@ When Claude Code runs on a server over SSH, it can't see the screenshot on your 
 <td width="50%" valign="top">
 
 **[🍎 claude-screenshot-uploader](https://github.com/mdrzn/claude-screenshot-uploader)**<br>
-macOS, from the menu bar. Multiple servers, automatic or one-click uploads, notifications, optional cleanup.
+A native Mac menu bar app: uploads the moment a screenshot is saved, clipboard images with ⌥⌘U, drag and drop, multiple servers with a connection test.
 
 [![Stars](https://img.shields.io/github/stars/mdrzn/claude-screenshot-uploader?style=flat-square&color=F5B942)](https://github.com/mdrzn/claude-screenshot-uploader/stargazers)
 [![Release](https://img.shields.io/github/v/release/mdrzn/claude-screenshot-uploader?style=flat-square&label=release)](https://github.com/mdrzn/claude-screenshot-uploader/releases/latest)
