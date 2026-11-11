@@ -77,6 +77,26 @@ brew tap mdrzn/tap && brew trust mdrzn/tap
 brew install --cask --no-quarantine mdrzn/tap/menustats mdrzn/tap/cursortrail mdrzn/tap/screenshot-uploader
 ```
 
+### Android TV
+
+<table>
+<tr>
+<td width="50%" valign="middle">
+<a href="https://github.com/mdrzn/cleanframe-tv"><img src="https://raw.githubusercontent.com/mdrzn/cleanframe-tv/main/docs/images/cleanframe-tv-list.jpg" alt="CleanFrame TV" width="100%"></a>
+</td>
+<td width="50%" valign="middle">
+
+**[🖼️ CleanFrame TV](https://github.com/mdrzn/cleanframe-tv)**<br>
+A quieter home screen for Android TV: your apps, HDMI inputs, a photograph and the time — nothing else.
+
+[![Stars](https://img.shields.io/github/stars/mdrzn/cleanframe-tv?style=flat-square&color=F5B942)](https://github.com/mdrzn/cleanframe-tv/stargazers)
+[![Release](https://img.shields.io/github/v/release/mdrzn/cleanframe-tv?style=flat-square&label=release)](https://github.com/mdrzn/cleanframe-tv/releases/latest)
+![Android TV](https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 ### Screenshots → remote Claude Code
 
 When Claude Code runs on a server over SSH, it can't see the screenshot on your desktop. These upload it for you and put the remote path on your clipboard:
